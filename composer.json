@@ -1,5 +1,5 @@
 {
-  "name": "darrynten/watson-personality-insights-php",
+  "name": "harryspink/watson-personality-insights-php",
   "description": "PHP Watson Personality Insights Client with Extras",
   "type": "library",
   "require": {
